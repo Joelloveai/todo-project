@@ -1,7 +1,6 @@
 # Python To-Do List App
 
 A simple command-line to-do list application built with Python.  
-Created for my Gamuda AI Academy application.
 
 ## Features
 - Add new tasks

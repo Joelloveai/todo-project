@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-Advanced To-Do List Manager
 - Persistent storage (tasks.json)
 - Priorities, due dates, completion toggle
 - Edit tasks, search, sort, statistics
